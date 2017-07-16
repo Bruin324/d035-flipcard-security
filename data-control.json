@@ -1,0 +1,48 @@
+[
+    {
+        "userId": 1,
+        "userName": "Admin",
+        "email": "admin@test.com",
+        "password": "ajnZAU8pJC2gCE+AUsjqJq4dwy74NzbK2iqxdAsE9wQMoz39PURQZ6mj/o7iZIiFoXdhDjqJ1gQBhuU//qQmk8V869qSFs7NF5zTVtjC93jGV/UKtt21c5r6O79mJjOX1V21G6lFpgBw2sN68Nc+CJ9sdu0Jcc4FGwOLevPBA3PJ2cJr1EeiIwW+QTtemqNgqTu2HhXUjG+8rtQL5R709yqBklOTOFSpORqCK4y13AYwHYRleTvP+J3ohUQhjvnPEPKWLTeZYwzAPx20JTCSmV/l7VIWh+NXeV6T6UTsgoTulx72J0ykh5VSSouJnDMnVrCoEkX3D9ZDWaENtdodBw==",
+        "decks": [
+            {
+                "deckId": 1,
+                "deckName": "math",
+                "cards": [
+                    {
+                        "cardId": 1,
+                        "cardQuestion": "2+2",
+                        "cardAnswer": "4"
+                    },
+                    {
+                        "cardId": 2,
+                        "cardQuestion": "6-3",
+                        "cardAnswer": "3"
+                    }
+                ]
+            },
+            {
+                "deckId": 2,
+                "deckName": "science",
+                "cards": [
+                    {
+                        "cardId": 1,
+                        "cardQuestion": "a wolf is a :",
+                        "cardAnswer": "dog"
+                    },
+                    {
+                        "cardId": 2,
+                        "cardQuestion": "a lion is a :",
+                        "cardAnswer": "cat"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "userName": "Bruin",
+        "email": "bruin@test.com",
+        "password": "ajnZAU8pJC2gCE+AUsjqJq4dwy74NzbK2iqxdAsE9wQMoz39PURQZ6mj/o7iZIiFoXdhDjqJ1gQBhuU//qQmk8V869qSFs7NF5zTVtjC93jGV/UKtt21c5r6O79mJjOX1V21G6lFpgBw2sN68Nc+CJ9sdu0Jcc4FGwOLevPBA3PJ2cJr1EeiIwW+QTtemqNgqTu2HhXUjG+8rtQL5R709yqBklOTOFSpORqCK4y13AYwHYRleTvP+J3ohUQhjvnPEPKWLTeZYwzAPx20JTCSmV/l7VIWh+NXeV6T6UTsgoTulx72J0ykh5VSSouJnDMnVrCoEkX3D9ZDWaENtdodBw==",
+        "userId": 2
+    }
+]

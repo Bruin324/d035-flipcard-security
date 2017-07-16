@@ -1,0 +1,21 @@
+{
+  "name": "d035-flipcard-security",
+  "version": "1.0.0",
+  "description": "",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "crypto": "0.0.3",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "file-system": "^2.2.2",
+    "mocha": "^3.4.2",
+    "supertest": "^3.0.0"
+  }
+}
